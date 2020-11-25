@@ -1,4 +1,5 @@
-Code for paper **Accurate Word Alignment Induction from Neural Machine Translation**.
+# Transformer-Alignment
+This page includes instructions for training models described in  [Accurate Word Alignment Induction from Neural Machine Translation (Chen et al., 2020)](https://arxiv.org/abs/2004.14837).
 
 First install fairseq-v0.9.0 with guidance [here](https://github.com/pytorch/fairseq/tree/v0.9.0). Then process data with the [guidance](https://github.com/lilt/alignment-scripts/tree/master/preprocess) and get binarized processed data with `fairseq-preprocess` command.
 
